@@ -9,6 +9,7 @@
             LineCompare checkLine = new LineCompare();
             checkLine.checkLength();
             checkLine.checkEquality();
+            checkLine.CompareLines();
         }
     }
 }
