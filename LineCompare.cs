@@ -33,7 +33,6 @@ namespace LineComparision
         }
         public void CompareLines()
         {
-
             l1 = x2 - x1;
             l2 = y2 - y1;
             int n = l1.CompareTo(l2);
